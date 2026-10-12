@@ -48,7 +48,7 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=Svcs-n0AAAAJ&
 <ul class="pubs">
   <li>
     <span class="t"><a href="https://aclanthology.org/2025.naacl-long.398/">Functional Lexicon in Subword Tokenization</a></span>
-    <span class="a"><b>Zachary William Hopton</b>, Yves Scherrer, Tanja Samardzic</span>
+    <span class="a"><b>Zachary Hopton</b>, Yves Scherrer, Tanja Samardzic</span>
     <span class="v">NAACL 2025</span>
   </li>
   <li>
@@ -65,12 +65,12 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=Svcs-n0AAAAJ&
 <ul class="pubs">
   <li>
     <span class="t"><a href="https://aclanthology.org/2024.vardial-1.6/">Modeling Orthographic Variation in Occitan's Dialects</a></span>
-    <span class="a"><b>Zachary William Hopton</b>, Noëmi Aepli</span>
+    <span class="a"><b>Zachary Hopton</b>, Noëmi Aepli</span>
     <span class="v">VarDial 2024</span>
   </li>
   <li>
     <span class="t"><a href="https://aclanthology.org/2024.americasnlp-1.18/">System Description of the NordicsAlps Submission to the AmericasNLP 2024 Machine Translation Shared Task</a></span>
-    <span class="a">Joseph Attieh, <b>Zachary William Hopton</b>, Yves Scherrer, Tanja Samardzic</span>
+    <span class="a">Joseph Attieh, <b>Zachary Hopton</b>, Yves Scherrer, Tanja Samardzic</span>
     <span class="v">AmericasNLP 2024</span>
   </li>
 </ul>

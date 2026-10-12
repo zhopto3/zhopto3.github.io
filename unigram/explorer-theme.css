@@ -1,6 +1,3 @@
-/* Injected into explorer.html when it is embedded in unigram/index.html.
-   explorer.html itself is the untouched file from psycho-gym, so it can be
-   replaced with a regenerated copy at any time; this file restyles it. */
 :root {
   --bg: #ffffff;
   --fg: #18233a;

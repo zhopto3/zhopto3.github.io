@@ -1,18 +1,6 @@
 <!DOCTYPE html>
 <!--
   Unigram-surprisal explorer PREVIEW (standalone).
-
-  One explorer over two sources, same visual grammar for both:
-     window.REPLICA_CASEVIZ_MECO   <- caseviz_meco.js   (MECO languages, R grid)
-     window.REPLICA_CASEVIZ        <- caseviz_data.js    (English corpora, gym)
-
-  Pick a source (a MECO language or an English corpus), pick two estimators to
-  compare (A vs B), set the robustness toggles and the multiple-comparison rule.
-  Everything else -- the measure facets, the forest, the paired test -- is shared.
-
-  Preview it:  python3 -m http.server 8000  then open the file over http://.
-  To port into the site: move the <style>, the markup, and the bottom <script>
-  into a .qmd and point the two <script src> at data/.
 -->
 <html lang="en">
 <head>

@@ -20,8 +20,6 @@ Compare unigram surprisal estimators in GAMMs under different predictors, depend
 ```{=html}
 <iframe id="explorer" class="explorer-frame" src="explorer.html" title="Unigram surprisal data explorer"></iframe>
 <script>
-// explorer.html is the untouched file from psycho-gym. When served from the
-// same origin we restyle it to match the site and size the frame to fit.
 (function () {
   var f = document.getElementById("explorer"), done = false;
   function apply() {
