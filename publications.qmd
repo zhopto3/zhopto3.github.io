@@ -1,0 +1,90 @@
+---
+title: "Publications"
+---
+
+Also on [Google Scholar](https://scholar.google.com/citations?user=Svcs-n0AAAAJ&hl=en) and the [ACL Anthology](https://aclanthology.org/people/zachary-william-hopton/).
+
+## 2026 {.year}
+
+```{=html}
+<ul class="pubs">
+  <li>
+    <span class="t"><a href="unigram/">Revisiting the Estimation of Unigram Surprisal in Computational Psycholinguistics</a></span>
+    <span class="a"><b>Zachary Hopton</b>, Francesco Ignazio Re, Samuel Kiegeland, Andreas Opedal, Eleanor Chodroff, Ryan Cotterell</span>
+    <span class="v">EMNLP 2026</span>
+    <span class="x"><a href="unigram/">Explorer</a></span>
+  </li>
+  <li>
+    <span class="t">Estimating Surprisal from the Speech Signal</span>
+    <span class="a"><b>Zachary Hopton</b>, Samuel Kiegeland, Francesco Ignazio Re, Patrick Haller, Matthew B. Winn, Ryan Cotterell, Eleanor Chodroff</span>
+    <span class="v">EMNLP 2026</span>
+  </li>
+  <li>
+    <span class="t"><a href="https://aclanthology.org/2026.tacl-1.89/">Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs</a></span>
+    <span class="a">Sara Papi, Javier Garcia Gilabert, <b>Zachary Hopton</b>, Vilém Zouhar, Carlos Escolano, Gerard I. Gállego, Jorge Iranzo-Sánchez, Ahrii Kim, Dominik Macháček, Patricia Schmidtova, Maike Züfle</span>
+    <span class="v">Transactions of the ACL</span>
+  </li>
+  <li>
+    <span class="t"><a href="https://aclanthology.org/2026.findings-eacl.16/">The Mediomatix Corpus: Parallel Data for Romansh Language Varieties via Comparable Schoolbooks</a></span>
+    <span class="a"><b>Zachary Hopton</b>, Jannis Vamvas, Andrin Büchler, Anna Rutkiewicz, Rico Cathomas, Rico Sennrich</span>
+    <span class="v">Findings of EACL 2026</span>
+  </li>
+  <li>
+    <span class="t"><a href="https://aclanthology.org/2026.loresmt-1.15/">CTC Regularization for Low-Resource Speech-to-Text Translation</a></span>
+    <span class="a"><b>Zachary Hopton</b>, Rico Sennrich</span>
+    <span class="v">LoResMT 2026</span>
+  </li>
+  <li>
+    <span class="t"><a href="https://aclanthology.org/2026.swisstext-1.11/">RUMLEM: A Dictionary-Based Lemmatizer for Romansh</a></span>
+    <span class="a">Dominic P. Fischer, <b>Zachary Hopton</b>, Jannis Vamvas</span>
+    <span class="v">SwissText 2026</span>
+  </li>
+</ul>
+```
+
+## 2025 {.year}
+
+```{=html}
+<ul class="pubs">
+  <li>
+    <span class="t"><a href="https://aclanthology.org/2025.naacl-long.398/">Functional Lexicon in Subword Tokenization</a></span>
+    <span class="a"><b>Zachary William Hopton</b>, Yves Scherrer, Tanja Samardzic</span>
+    <span class="v">NAACL 2025</span>
+  </li>
+  <li>
+    <span class="t"><a href="https://aclanthology.org/2025.sigmorphon-main.3/">The Impact of Dialect Variation on Robust Automatic Speech Recognition for Catalan</a></span>
+    <span class="a"><b>Zachary Hopton</b>, Eleanor Chodroff</span>
+    <span class="v">SIGMORPHON 2025</span>
+  </li>
+</ul>
+```
+
+## 2024 {.year}
+
+```{=html}
+<ul class="pubs">
+  <li>
+    <span class="t"><a href="https://aclanthology.org/2024.vardial-1.6/">Modeling Orthographic Variation in Occitan's Dialects</a></span>
+    <span class="a"><b>Zachary William Hopton</b>, Noëmi Aepli</span>
+    <span class="v">VarDial 2024</span>
+  </li>
+  <li>
+    <span class="t"><a href="https://aclanthology.org/2024.americasnlp-1.18/">System Description of the NordicsAlps Submission to the AmericasNLP 2024 Machine Translation Shared Task</a></span>
+    <span class="a">Joseph Attieh, <b>Zachary William Hopton</b>, Yves Scherrer, Tanja Samardzic</span>
+    <span class="v">AmericasNLP 2024</span>
+  </li>
+</ul>
+```
+
+
+## 2021 {.year}
+
+```{=html}
+<ul class="pubs">
+  <li>
+    <span class="t"><a href="https://psycnet.apa.org/record/2022-40433-003">Depression and episodic memory across the adult lifespan: A meta-analytic review</a></span>
+    <span class="a">Taylor James, Samuel Weiss-Cowie, <b>Zachary Hopton</b>, Paul Verhaeghen, Vonetta Dotson, Audrey Duarte</span>
+    <span class="v">Psychological Bulletin</span>
+  </li>
+</ul>
+```

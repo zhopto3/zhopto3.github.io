@@ -1,0 +1,49 @@
+---
+title: "Revisiting the Estimation of Unigram Surprisal in Computational Psycholinguistics"
+page-layout: full
+---
+
+**Zachary Hopton**, Francesco Ignazio Re, Samuel Kiegeland, Andreas Opedal, Eleanor Chodroff, Ryan Cotterell. EMNLP 2026.
+
+::: {.paper-links}
+[Open the explorer full screen](explorer.html)
+:::
+
+::: {style="max-width: 70ch"}
+Contextual and unigram surprisal are standard predictors of reading time in computational psycholinguistics. While contextual surprisal is typically derived from neural language models, unigram surprisal is usually obtained from independent corpus counts. Although both quantities are deterministic functionals of a single underlying distribution—capturing conditional and marginal structure respectively—this practice breaks their probabilistic link and may introduce estimation error from the mismatch. We propose three principles for estimating unigram surprisal in psycholinguistic research, including the requirement that both quantities be derived from the same language model. We operationalize this principle by introducing a Monte Carlo estimator of unigram surprisal from a language model, along with a marginalized variant that has lower variance empirically. When unigram surprisal is re-estimated under this unified framework, we find evidence that predictors change in their predictive contribution to reading time. We also confirm prior findings that frequency can be a stronger predictor of processing effort than contextual surprisal under this unified framework.
+:::
+
+## Data explorer
+
+Compare unigram surprisal estimators in GAMMs under different predictors, dependent variables, outlier handling and multiple-comparison corrections.
+
+```{=html}
+<iframe id="explorer" class="explorer-frame" src="explorer.html" title="Unigram surprisal data explorer"></iframe>
+<script>
+// explorer.html is the untouched file from psycho-gym. When served from the
+// same origin we restyle it to match the site and size the frame to fit.
+(function () {
+  var f = document.getElementById("explorer"), done = false;
+  function apply() {
+    var d;
+    try { d = f.contentDocument; } catch (e) { return; }
+    if (done || !d || !d.head || !d.getElementById("facets")) return;
+    done = true;
+    var fonts = d.createElement("link");
+    fonts.rel = "stylesheet";
+    fonts.href = "https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400&display=swap";
+    var theme = d.createElement("link");
+    theme.rel = "stylesheet";
+    theme.href = "explorer-theme.css";
+    d.head.appendChild(fonts);
+    d.head.appendChild(theme);
+    function fit() { f.style.height = (d.documentElement.scrollHeight + 4) + "px"; }
+    fit();
+    if (window.ResizeObserver) new ResizeObserver(fit).observe(d.body);
+    theme.addEventListener("load", fit);
+  }
+  f.addEventListener("load", apply);
+  apply();
+})();
+</script>
+```

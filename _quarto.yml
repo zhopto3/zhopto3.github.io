@@ -1,0 +1,60 @@
+# =====================================================================
+#  _quarto.yml — the control room for your whole site.
+#  Change things here and `quarto preview` updates live in the browser.
+# =====================================================================
+
+project:
+  type: website
+  output-dir: _site          # where the built HTML lands (don't edit by hand)
+  resources:                 # copied into _site as-is (not rendered)
+    - cv.pdf
+    - assets/*.jpg
+    - unigram/explorer.html
+    - unigram/explorer-theme.css
+
+website:
+  title: "Zach Hopton"
+  description: "PhD student at the University of Zurich working on speech, phonetics, psycholinguistics, and speech and language technology."
+  site-url: https://zhopto3.github.io
+
+  navbar:
+    left:
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching & talks
+      - href: cv.qmd
+        text: CV
+      # Blog: create blog/index.qmd (see WALKTHROUGH Part 5), then uncomment
+      # - href: blog/index.qmd
+      #   text: Blog
+    right:
+      - icon: github
+        href: https://github.com/zhopto3
+        aria-label: GitHub
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=Svcs-n0AAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: envelope
+        href: mailto:zacharywilliam.hopton@uzh.ch
+        aria-label: Email
+      - icon: bluesky
+        href: https://bsky.app/profile/zhopto.bsky.social
+        aria-label: Bluesky
+      - icon: linkedin
+        href: https://www.linkedin.com/in/zhopton/
+        aria-label: LinkedIn
+
+  page-footer:
+    left: "© 2026 Zach Hopton"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo            # Bootswatch base; styles.scss overrides it
+      - styles.scss      # Praat-ish layer. The old cream theme is kept in styles-cream.scss
+    toc: false
+    smooth-scroll: true

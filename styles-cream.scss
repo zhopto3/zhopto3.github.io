@@ -1,0 +1,43 @@
+/*-- scss:defaults --*/
+// =====================================================================
+//  styles.scss — your "cute" layer. This block runs BEFORE Bootstrap,
+//  so these variables re-skin the whole site. Tinker freely.
+// =====================================================================
+
+// ---- Fonts (loaded from Google Fonts below) ----
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..600;1,9..144,400..500&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Space+Mono&display=swap');
+
+$font-family-sans-serif: "Atkinson Hyperlegible", system-ui, sans-serif;
+$headings-font-family:   "Fraunces", Georgia, serif;
+$font-family-monospace:  "Space Mono", monospace;
+
+// ---- Colors — change these four and the mood shifts ----
+$body-bg:    #FBF6EE;   // warm cream
+$body-color: #211C17;   // warm near-black
+$primary:    #E0533B;   // persimmon — links & accents
+$secondary:  #2E6E64;   // deep teal
+
+$link-color: $primary;
+
+/*-- scss:rules --*/
+// =====================================================================
+//  This block runs AFTER Bootstrap — normal CSS for fine-tuning.
+// =====================================================================
+
+body {
+  // faint dot texture so the cream isn't flat
+  background-image: radial-gradient(#E0D4C2 0.5px, transparent 0.5px);
+  background-size: 22px 22px;
+}
+
+h1, h2, h3 { letter-spacing: -0.01em; }
+
+// wavy underline on link hover — a small playful touch
+a:hover {
+  text-decoration-style: wavy;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+}
+
+// give the navbar a little personality
+.navbar-brand { font-family: "Fraunces", serif; font-weight: 600; }

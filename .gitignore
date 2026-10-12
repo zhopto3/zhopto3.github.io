@@ -1,0 +1,8 @@
+/.quarto/
+/_site/
+.DS_Store
+
+**/*.quarto_ipynb
+
+# unpublished paper PDFs: keep out of the public repo until proceedings are out
+/papers/

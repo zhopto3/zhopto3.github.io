@@ -1,0 +1,137 @@
+---
+title: "Teaching & talks"
+---
+
+## Teaching
+
+```{=html}
+<div class="entries">
+  <div class="entry">
+    <div class="when">Spring 2026</div>
+    <div class="what">
+      <h3>Introduction to [Automatic] Speech Processing</h3>
+      <p class="role">Lecturer, University of Zurich</p>
+    </div>
+  </div>
+  <div class="entry">
+    <div class="when">Spring 2025</div>
+    <div class="what">
+      <h3>Introduction to [Automatic] Speech Processing</h3>
+      <p class="role">Teaching assistant, University of Zurich</p>
+    </div>
+  </div>
+  <div class="entry">
+    <div class="when">Fall 2023</div>
+    <div class="what">
+      <h3>Programming for Linguistics</h3>
+      <p class="role">Teaching assistant, University of Zurich</p>
+      <p>An introduction to Python for Master’s students in linguistics. I ran weekly tutorials on practical applications of the lecture material, and designed and graded the programming assignments and exams.</p>
+    </div>
+  </div>
+</div>
+```
+
+## Thesis supervision
+
+```{=html}
+<div class="entries">
+  <div class="entry">
+    <div class="when">2026</div>
+    <div class="what">
+      <h3>Investigating speaker attributes in self-supervised speech models: a comparison of interpretability techniques</h3>
+      <p class="role">Bachelor’s thesis, co-supervised with Eleanor Chodroff</p>
+    </div>
+  </div>
+</div>
+```
+
+## Organizing
+
+```{=html}
+<div class="entries">
+  <div class="entry">
+    <div class="when">Fall 2026</div>
+    <div class="what">
+      <h3>Phonetics &amp; Speech Sciences Colloquium</h3>
+      <p class="role">Co-organizer, University of Zurich</p>
+    </div>
+  </div>
+  <div class="entry">
+    <div class="when">Fall 2026</div>
+    <div class="what">
+      <h3>Reading Group on Speech Representations</h3>
+      <p class="role">Co-organizer</p>
+    </div>
+  </div>
+    <div class="entry">
+    <div class="when">September 2026</div>
+    <div class="what">
+      <h3>Computational Linguistics at Scientifica 2026</h3>
+      <p class="role">Volunteer</p>
+    </div>
+  </div>
+</div>
+```
+
+## Talks and presentations
+
+```{=html}
+<div class="entries">
+  <div class="entry">
+    <div class="when">October 2026</div>
+    <div class="what">
+      <h3>Estimating Surprisal from the Speech Signal</h3>
+      <p class="role">Poster, EMNLP 2026, Budapest, Hungary</p>
+    </div>
+  </div>
+  <div class="entry">
+    <div class="when">October 2026</div>
+    <div class="what">
+      <h3>Revisiting the Estimation of Unigram Surprisal in Computational Psycholinguistics</h3>
+      <p class="role">Oral, EMNLP 2026, Budapest, Hungary</p>
+    </div>
+  </div>
+  <div class="entry">
+    <div class="when">March 2026</div>
+    <div class="what">
+      <h3>The Mediomatix Corpus: Parallel Data for Romansh Language Varieties</h3>
+      <p class="role">Poster, EACL 2026, Rabat, Morocco</p>
+    </div>
+  </div>
+    <div class="entry">
+    <div class="when">March 2026</div>
+    <div class="what">
+      <h3>CTC Regularization for Low-Resource Speech-to-Text Translation</h3>
+      <p class="role">Oral, LoResMT 2026, Rabat, Morocco</p>
+    </div>
+  </div>
+  <div class="entry">
+    <div class="when">June 2025</div>
+    <div class="what">
+      <h3>Invited talk: Dialect-Robust Catalan ASR</h3>
+      <p class="role">Language Technologies group, Barcelona Supercomputing Center (Online)</p>
+    </div>
+  </div>
+  <div class="entry">
+    <div class="when">May 2025</div>
+    <div class="what">
+      <h3>Functional Lexicon in Subword Tokenization</h3>
+      <p class="role">Poster, NAACL 2025, Albuquerque, USA</p>
+    </div>
+  </div>
+    <div class="entry">
+    <div class="when">May 2025</div>
+    <div class="what">
+      <h3>The Impact of Dialect Variation on Robust Automatic Speech Recognition for Catalan</h3>
+      <p class="role">Oral, SIGMORPHON 2025, Albuquerque, USA</p>
+    </div>
+  </div>
+      <div class="entry">
+    <div class="when">June 2024</div>
+    <div class="what">
+      <h3>System Description of the NordicsAlps Submission to the AmericasNLP 2024 Machine Translation Shared Task</h3>
+      <p class="role">Poster, AmericasNLP, Online</p>
+    </div>
+  </div>
+</div>
+```

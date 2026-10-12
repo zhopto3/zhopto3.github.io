@@ -1,0 +1,5 @@
+---
+title: "CV"
+---
+
+My CV is being updated and will be posted here soon. In the meantime, you can find my [publications](publications.qmd) and [teaching and talks](teaching.qmd) on this site, or [email me](mailto:zacharywilliam.hopton@uzh.ch) for the current version.
