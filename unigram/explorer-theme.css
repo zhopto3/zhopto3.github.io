@@ -1,0 +1,29 @@
+:root {
+  --bg: #ffffff;
+  --fg: #18233a;
+  --muted: #5b6577;
+  --line: #d5d9e0;
+  --estA: #9aa3b2;
+  --estB: #a8482a;
+  --accent: #a8482a;
+  --chip: #f6efe9;
+  --chip-on: #a8482a;
+  --star: #a8482a;
+  --card: #ffffff;
+  --shadow: none;
+  font-family: "Archivo", "Helvetica Neue", Arial, sans-serif !important;
+}
+body { font-size: 15px; }
+.wrap { max-width: none; padding: 4px 0 24px; }
+/* the host page already shows the title and intro */
+.wrap > h1, .wrap > h3, .wrap > .sub { display: none; }
+.wrap > p:first-of-type,
+.wrap ul { font-family: "Gentium Book Plus", Georgia, serif; font-size: 17px; line-height: 1.55; max-width: 72ch; }
+.wrap ul { padding-left: 1.2em; margin: 6px 0 22px; }
+.wrap ul li { margin-bottom: 4px; }
+.facet { border-radius: 0; border-color: #18233a; }
+.seg, .seg button, .toggle, select { border-radius: 4px; }
+.group .lab { text-transform: none; letter-spacing: 0; font-size: 13px; }
+button:focus-visible, select:focus-visible { outline: 2px solid #a8482a; outline-offset: 2px; }
+/* surprisal reference line: grey so it is not confused with the clay estimator */
+svg line[stroke="#b06a2c"] { stroke: #7a8599; }
